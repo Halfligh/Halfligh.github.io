@@ -500,6 +500,7 @@ a{
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    width: 85%;
 }
 
 .infos-and-price{
@@ -516,7 +517,7 @@ a{
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    width: 82%;
+    width: 80%;
 }
 
 .price{
